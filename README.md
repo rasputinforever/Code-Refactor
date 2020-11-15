@@ -1,13 +1,22 @@
-What: 
-I. This is homework due on 11-07-20. 
-    1) This is a submitted "ticket" requesting fixes to behavior of links and appearance. An image was submitted as a guide for the desired appearance.
-    2) The ticket requests that css stylesheet be organized/consolidated.
-II. Consolidations in css
-    1) <div> classes and ids adjusted and re-named to better consolidate the css stylesheet.
-    2) comments added to stylesheet to help guide the flow.
-    3) all css elements sorted to match flow of html.
-Who: Made by Erik Portillo, 2020
+## Assignment Summary
 
-Final Image:
-!![Image of Yaktocat](./assets/images/finalindex.jpg)
+# Ticket Request for Horiseon
 
+Horiseon is a company that requested assistance for their website. Problems included redundant CSS stylings, broken links, and not using semantic HTML.
+
+# Redundant CSS
+
+It was possible to consolidate many of the stylings. Originally each DIV had its own sytling specified despite being the same across the various, similar DIVs. This was reduced by using CLASS to link them all to one set of style specifications. For unique items, such as the images that are aligned left or right, additional classes/IDs were used.
+
+# Broken links
+
+Nav-bar had broken links. These were fixed by linking to those section's IDs
+
+# Semanitic HTML
+
+The page was comprised of DIVs rather than semantic HTML. These improvements were applied to enable easier navigation of the source for further additions/improvements/bug fixes in the future.
+
+
+## Homework Assignment Improvements
+
+11-14-2020: re-submitted with Semantic HTML, alt-tags, and other improvements.
