@@ -7,3 +7,7 @@ II. Consolidations in css
     2) comments added to stylesheet to help guide the flow.
     3) all css elements sorted to match flow of html.
 Who: Made by Erik Portillo, 2020
+
+Final Image:
+!![Image of Yaktocat](./assets/images/finalindex.jpg)
+
